@@ -1,4 +1,4 @@
-## NEWSLETTER SIGN UP FORM 📰
+## NEWSLETTER SIGN-UP FORM 📰
 
 A responsive, dark theme newsletter signup component built with *html* and *css*. It features an email input field, a styled subscribe button, and a list of benefits.
 
@@ -32,7 +32,7 @@ Here's the form look like
 
 ## LIVE-DEMO 🌐
 
-- [Click here for live demo]()
+- [Click here for live demo](https://amnaakhtar1213.github.io/newsletter-sign-up-form/)
 
 ----------------------------
 
